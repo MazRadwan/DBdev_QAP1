@@ -10,7 +10,7 @@
 ## Using SELECT
 
 - various queries utilizing SELECT
-- GROUP ans JOIN queries
+- GROUP and JOIN queries
 - combining various queries
 
 ## SQL CRUD
