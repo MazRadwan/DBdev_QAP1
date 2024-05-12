@@ -4,7 +4,7 @@
 
 ## Database installed
 
-- Postgres installed and list databes via SQL Shell
+- Postgres installed and list databases via SQL Shell
 - Screenshot of running dashboard in PGAdmin
 
 ## Using SELECT
